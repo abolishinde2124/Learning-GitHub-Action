@@ -6,8 +6,11 @@ GitHub Actions is a feature provided by GitHub to automate workflows directly in
 pushing code to the repository, 
 opening a pull request, or 
 creating a release
+
 ~ Definition: A workflow is an automated process set up in a repository. It consists of one or more jobs that run in response to a trigger event.
+
 ~ File Location: Workflow files are stored in the .github/workflows directory of your repository.
+
 ~ Triggers: Workflows can be triggered by events like push, pull_request, issue, schedule, etc.
 
 # Key Features
